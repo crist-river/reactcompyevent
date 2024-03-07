@@ -1,5 +1,10 @@
 const SocialButton = () => {
-  return <div>SocialButton</div>;
+  return (
+    <>
+        <button>Redes sociales</button>
+        <></>
+    </>
+  )
 };
 
 export default SocialButton;

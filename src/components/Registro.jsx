@@ -5,7 +5,7 @@ import SocialButton from "./SocialButton"
 const Registro = () => {
   return (
     <>
-        <SocialButton/>
+        <SocialButton img= 'imagen de facebook' img2= 'imagen de github' img3= 'imagen de instagram'/>
         <Formulario/>
         <Alert/>
     </>
